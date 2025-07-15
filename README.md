@@ -21,5 +21,5 @@ A classic 2D space shooter game built using **Python** and **Pygame**, where the
 - **Library**: Pygame
 - **Paradigm**: Object-Oriented Programming (OOP)
 
-## 📁 Folder Structure
+
 
